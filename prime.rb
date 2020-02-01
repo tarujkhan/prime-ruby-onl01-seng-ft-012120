@@ -9,4 +9,4 @@ def prime?(n)
  end
       
 end
-puts prime?(-1)
+#puts prime?(-1)
