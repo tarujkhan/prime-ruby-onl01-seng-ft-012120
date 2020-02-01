@@ -8,4 +8,4 @@ def prime?(n)
       true
     end
       puts prime?(5)
-    
+    end
