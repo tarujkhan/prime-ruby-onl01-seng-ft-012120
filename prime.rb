@@ -6,4 +6,5 @@ def prime?(n)
       false
     else
       true
+      puts prime?(5)
     end
