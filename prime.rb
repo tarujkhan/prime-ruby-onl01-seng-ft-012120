@@ -1,7 +1,7 @@
 # Add  code here!
 def prime?(x)
   x/2
-  if 
+  if x == 
 end
   puts prime?(17)
   
